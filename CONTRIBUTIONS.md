@@ -42,7 +42,7 @@
 
 ## Sprint 2
 
-- 2025-06-29: Se agregan y documentan tests para los scripts `doc_extractor.py` y `diagram_generator.py` en el entorno de Python, cubriendo funciones clave, variables y outputs, así como explicaciones detalladas de los tests realizados.
+- 2025-06-28: Se agregan y documentan tests para los scripts `doc_extractor.py` y `diagram_generator.py` en el entorno de Python, cubriendo funciones clave, variables y outputs, así como explicaciones detalladas de los tests realizados.
 
   Commits:
   - `feat(py): (Issue #16) agregar tests para funciones variables y outputs de doc_extractor.py` (`369597c`)
@@ -53,3 +53,12 @@
   Pull request grupal: [#21](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/21)
 
 ## Sprint 3
+
+- 2025-06-29: Se agrega el tests `test_terraform_docs_validate.py` para las pruebas con la documentación generada. Se documenta dicho script y también se realizan modificaciones a `diagram_generator.py` para pasar linting.
+
+  Commits:
+  - `fix(py): (Issue #23) modificar archivo para pasar prueba de linting flake8` (`97d8126`)
+  - `feat(py): (Issue #23) añadir archivo test_terraform_docs_validation para testing de outputs de documentación generada` (`8b4d56b`)
+  - `docs(test): (Issue #23) añadir documentación del script test_terraform_docs_validation` (`5a921f9`)
+
+  Pull request grupal: [#27](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/27)
