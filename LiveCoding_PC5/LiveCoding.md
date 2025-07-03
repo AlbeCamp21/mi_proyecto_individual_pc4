@@ -1,0 +1,3 @@
+## Video del Live Coding de la PC5
+
+[LiveCoding-LuisAlanya](https://unipe-my.sharepoint.com/personal/luis_alanya_c_uni_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fluis%5Falanya%5Fc%5Funi%5Fpe%2FDocuments%2FLiveCoding%2DLuisAlanya%2DPC5%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2a9d2589%2De2d5%2D4b7a%2Dbb6f%2Db154dbea1b3f)
